@@ -55,10 +55,6 @@ Files
 - Serves static files like JavaScript and the main HTML page.
 
 ---
-Working Of Project.
-
-![Python Flask Server](assets/info.mp4)
----
 
 Installation and Setup
 
@@ -99,7 +95,8 @@ Steps
 ---
 A Complete Guide On Installation.
 
-![Python Flask Server](assets/installation.mp4)
+![Python Flask Server](assets/installation.gif)
+
 ---
 
 Usage
