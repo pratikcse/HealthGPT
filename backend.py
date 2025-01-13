@@ -7,7 +7,7 @@ import pathlib
 app = Flask(__name__, static_folder="static")
 CORS(app) 
 
-GOOGLE_API_KEY = "AIzaSyC9VzwY8Z0nG4_7f3HnDdyVrfi0W3yL7t0"
+GOOGLE_API_KEY = "api_key"
 
 genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel('gemini-1.5-pro-latest')
