@@ -96,8 +96,14 @@ Steps
 
 Usage
 1. View real-time health metrics on the dashboard.
+![Python Flask Server](assets/mon.png)
 2. Fill out the "Additional Details" form with your medical and lifestyle data.
-3. Click "Get AI Recommendations" to receive tailored health insights.
+3. ![Python Flask Server](assets/ad-1.png)
+4. ![Python Flask Server](assets/ad-2.png)
+5. ![Python Flask Server](assets/ad-3.png)
+6. Click "Get AI Recommendations" to receive tailored health insights.
+   ![Python Flask Server](assets/response-gen.png)
+   ![Python Flask Server](assets/response-det.png)
 
 ---
 
