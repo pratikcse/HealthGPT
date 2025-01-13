@@ -84,11 +84,13 @@ Steps
    ```bash
    python backend.py
    ```
+   ![Python Flask Server](assets/backend.py.png)
 
 5. Open the application in your browser:
    ```
    http://127.0.0.1:5000
    ```
+   ![Python Flask Server](assets/index.png)
 
 ---
 
